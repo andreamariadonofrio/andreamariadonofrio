@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andreamariadonofrio
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning Assembly x86
+- 💞️ I’m looking to collaborate with a pixel artist
+- 📫 How to reach me: andreamariadonofrio@gmail.com
